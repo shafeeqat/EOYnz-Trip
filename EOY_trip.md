@@ -104,9 +104,7 @@
 
 ## 💰 Budget Estimation (per Couple) – in **SGD**
 
-**Conversion Rate:** 1 NZD ≈ 0.83 SGD  
-**Airbnb Total:** 5,500 NZD = ~4,565 SGD  
-**Per Couple:** 4,565 ÷ 4 = **1,375 SGD**
+**Conversion Rate:** 1 NZD ≈ 0.83 SGD
 
 | Category                     | Total (NZD) | Total (SGD) | Per Couple (SGD) |
 |-----------------------------|-------------|-------------|------------------|
