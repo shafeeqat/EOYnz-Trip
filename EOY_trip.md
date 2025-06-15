@@ -19,7 +19,7 @@
 ### 🗓️ Travel Dates: 6–17 December 2025  
 ### 👥 Group Size: 8 Adults, 3 Kids (9 mo – 4 yrs)  
 ### 🕌 Prayer: **No Qasr throughout** – full prayers required
-### 🗺️ Map: Refer to the Google Map list [here](link).
+### 🗺️ Map: Refer to the Google Map list [here](https://maps.app.goo.gl/sRNYkWJ5rxAT8k7s6?g_st=ac).
 
 ---
 
