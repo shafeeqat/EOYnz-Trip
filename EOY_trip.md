@@ -9,7 +9,7 @@
         <li><a href="#-places-of-interest--family-friendly-picks">Places of Interest</a></li>
         <li><a href="#️-halal-eateries-to-visit">Halal Eateries to Visit</a></li>
         <li><a href="#-vehicle-rental">Vehicle Rental</a></li>
-        <li><a href="# -airbnb">Airbnb</a></li>
+        <li><a href="#%EF%B8%8F-airbnb">Airbnb</a></li>
         <li><a href="#-budget-estimation-per-couple--in-sgd">Budget Estimation</a></li>
         <li><a href="#-prayer-timings--locations">Prayer Timings</a></li>
         <li><a href="#-detailed-day-by-day-itinerary">Detailed Itinerary</a></li>
@@ -333,5 +333,6 @@
 <p align="right">(<a href="#itinerary-top">back to top</a>)</p>
 
 ---
+
 
 
