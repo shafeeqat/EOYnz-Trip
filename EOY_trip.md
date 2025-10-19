@@ -8,7 +8,8 @@
         <li><a href="#overview">Overview</a></li>
         <li><a href="#-places-of-interest--family-friendly-picks">Places of Interest</a></li>
         <li><a href="#️-halal-eateries-to-visit">Halal Eateries to Visit</a></li>
-        <li><a href="#-vehicle-rental-recommendation">Vehicle Rental Recommendation</a></li>
+        <li><a href="#-vehicle-rental">Vehicle Rental</a></li>
+        <li><a href="#-airbnb">Airbnb</a></li>
         <li><a href="#-budget-estimation-per-couple--in-sgd">Budget Estimation</a></li>
         <li><a href="#-prayer-timings--locations">Prayer Timings</a></li>
         <li><a href="#-detailed-day-by-day-itinerary">Detailed Itinerary</a></li>
@@ -79,25 +80,25 @@
 
 ---
 
-## 🚐 Vehicle Rental Recommendation
+## 🚐 Vehicle Rental
 
-**Vehicle:** 12-Seater Van (e.g. Toyota Hiace / LDV G10)  
+**Vehicle:** 10-Seater Van - Nissan NV350  
 **Features:** Baby seat-compatible, luggage space, automatic  
-**Rental Duration:** 7 Dec (Christchurch Airport) → 17 Dec (Auckland Airport)  
-**Suggested Companies:** Apex, Go Rentals, Omega  
-**Estimated Cost:** ~NZD 1,600 incl. insurance & child seats
+**Rental Duration:** 7 Dec (Christchurch Airport) → 17 Dec (Auckland Airport)
+**Total Cost:** SGD 960 incl. insurance & child seats
+**Reference:** EC1939E6 (Queenstown) / ECC86E2B (Auckland)
 
 <p align="right">(<a href="#itinerary-top">back to top</a>)</p>
 
 ---
 
-## 🛏️ Airbnb  Recommendation
-* [**Queenstown** (~SGD 3800 for 6 nights)](https://www.airbnb.com.sg/rooms/1288245763926185218?adults=8&check_in=2025-12-07&check_out=2025-12-13&children=2&guests=10&infants=1&search_mode=regular_search&source_impression_id=p3_1749956164_P3oQ4DSIQM4EGkaQ&previous_page_section_name=1000&federated_search_id=7cd831a4-318b-44f7-99a1-77605a6ff3f6)
+## 🛏️ Airbnb
+* [**Queenstown** (~SGD 3816.27 for 6 nights)](https://www.airbnb.com.sg/rooms/1288245763926185218)
 
-![Queenstown Airbnb](https://a0.muscache.com/im/pictures/prohost-api/Hosting-1288245763926185218/original/3f8340c2-751a-46e5-aa8f-cd7b314b4cd8.jpeg?im_w=1200)
-* [**Auckland** (~SGD 1700 for 4 nights)](https://www.airbnb.com.sg/rooms/1359205822214252298?adults=8&check_in=2025-12-13&check_out=2025-12-17&children=2&infants=1&search_mode=regular_search&source_impression_id=p3_1749953920_P3lKejkxB-jZODWy&previous_page_section_name=1000&federated_search_id=aed9ddc4-74aa-4de0-b3c3-98eca7e4999a)
+![Queenstown Airbnb](https://a0.muscache.com/im/pictures/prohost-api/Hosting-1288245763926185218/original/3f8340c2-751a-46e5-aa8f-cd7b314b4cd8.jpeg?im_w=960)
+* [**Auckland** (~SGD 1474.35 for 4 nights)](https://www.airbnb.com.sg/rooms/1359205822214252298)
 
-![Auckland Airbnb](https://a0.muscache.com/im/pictures/miso/Hosting-1359205822214252298/original/809a7e8b-7e1c-4e9d-b8e3-2deb32c0ff71.jpeg?im_w=1200)
+![Auckland Airbnb](https://a0.muscache.com/im/pictures/hosting/Hosting-1359205822214252298/original/1358ab51-7d28-4b57-b35e-30b791f99f3f.jpeg?im_w=1200)
 
 
 ---
@@ -108,12 +109,12 @@
 
 | Category                     | Total (NZD) | Total (SGD) | Per Couple (SGD) |
 |-----------------------------|-------------|-------------|------------------|
-| Airbnb Accom. (10 nights)   | 7,125       | 5,500       | 1,375            |
-| Van Rental (10 days)        | 1,600       | 1,328       | 332              |
+| Airbnb Accom. (10 nights)   | 7,150       | 5,291       | 1,323            |
+| Van Rental (10 days)        | 1,298       | 960         | 240              |
 | Fuel & Parking              | 500         | 415         | 104              |
 | Food (Halal/groceries)      | 2,400       | 1,992       | 498              |
 | Activities & Tickets        | 1,600       | 1,328       | 332              |
-| **Total Estimation**        | **11,600**  | **9,628**   | **2,641**        |
+| **Total Estimation**        | **12,948**  | **9,986**   | **2,497**        |
 
 <p align="right">(<a href="#itinerary-top">back to top</a>)</p>
 
@@ -332,3 +333,4 @@
 <p align="right">(<a href="#itinerary-top">back to top</a>)</p>
 
 ---
+
